@@ -25,7 +25,7 @@ Instead of relying on hardcoded safety thresholds, FumeGuard utilizes four concu
 * **MQ-135 (Air Quality):** Connected to ESP32 Pin 34 (via 10k/20k Voltage Divider)
 * **MQ-2 (Combustibles):** Connected to ESP32 Pin 35 (via 10k/20k Voltage Divider)
 * **DHT11 (Temperature):** Connected to ESP32 Pin 32
-* **Exhaust Fan (via MOSFET Module):** Connected to ESP32 Pin 26 (PWM Output)
+* **Exhaust Fan (via MOSFET Module):** Connected to ESP32 Pin 33 (PWM Output)
 * **Power:** 5V (VIN) / GND
 
 ### Circuit Schematic
